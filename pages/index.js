@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
     <header>
-      <title>q_flow</title>
+      <title>Greatrifat Testing</title>
     </header>
     <div className='text-blue-700' >
     </div>
