@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
     <header>
-      <title>Greatrifat Testing</title>
+      <title>Greatrifat Testing 2</title>
     </header>
     <div className='text-blue-700' >
     </div>
